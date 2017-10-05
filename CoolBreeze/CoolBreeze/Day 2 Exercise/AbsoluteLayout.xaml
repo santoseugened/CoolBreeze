@@ -4,10 +4,10 @@
              x:Class="CoolBreeze.Day_2_Exercise.AbsoluteLayout">
 
     <StackLayout BackgroundColor="#f7f7f7" >
-        
-        
+
+        <BoxView BackgroundColor="#f7f7f7"/>
     </StackLayout>
-    <BoxView BackgroundColor="#f7f7f7"/>
+    
     
     
 </AbsoluteLayout>
